@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <a class="link"
    target="_blank"
    <a href="https://goit.global"><img src="https://ac.goit.global/img/photo1.jpg" alt="note in laptop"></a>
 
 <a href="https://goit.global"> <img src="https://ac.goit.global/img/photo2.jpg" alt="note on paper"></a>
+=======
+<a class="link"
+   target="_blank"
+   <a href="https://goit.global"><img src="https://ac.goit.global/img/photo1.jpg" alt="note in laptop"></a>
+
+<a href="https://goit.global"> <img src="https://ac.goit.global/img/photo2.jpg" alt="note on paper"></a>
+>>>>>>> 1686154ed5095b62b44e1dfe3390a70545e4e6b7
 </a>
